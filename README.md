@@ -2,13 +2,13 @@
 
 ## I'm a Junior Manual QA Engineer.
 
-##
+## I really want to become a professional tester.
 
 ## My CV
 
 [Link to my CV](https://drive.google.com/file/d/18e-oqPnRR0QMIwnzmakVtxf7h4CiUmF9/view?usp=sharing/)
 
-### Language and Tools
+### Tools and Language
 
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
@@ -31,6 +31,13 @@
 - [Bug-Reports](https://github.com/Molochkova/bug-reports)
 - [SQL Queries](https://github.com/Molochkova/SQL)
 - [Postman Collections](https://github.com/Molochkova/postman)
+
+### Professional development, courses
+
+- 2023 **SQL Fundamentals** JetBrains Academy
+- [2023 **QA Engineer** Practicum by Yandex](https://drive.google.com/file/d/1SnIFBYHYDtL7XuOH9rRbjJa2Y9jX5Sp-/view?usp=sharing/)
+- 2022 **Kotlin Basic** JetBrains Academy
+- [2021 **Android mobile app developer** Tomsk State University](https://drive.google.com/file/d/1mlolip1z6nfs4PeEyWHQwNhmgZoID4ZN/view?usp=sharing/)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Contact+me)
 
