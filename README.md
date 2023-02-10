@@ -2,7 +2,7 @@
 
 ## I'm a Junior Manual QA Engineer.
 
-## I really want to become a professional tester.
+## Recently I have been trained for a new profession. I’ve completed QA Engineer training course at Practicum by Yandex. I plan to develop towards automation. Started learning JS.
 
 ## My CV
 
@@ -20,17 +20,28 @@
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=136be1)
 ![Header](https://img.shields.io/badge/YandexTracker-090909?style=for-the-badge&logo=yandextracker&logoColor=f7f7f7)
+![Header](https://img.shields.io/badge/Cygwin-090909?style=for-the-badge&logo=Cygwin&logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 ![Header](https://img.shields.io/badge/Draw.io-090909?style=for-the-badge&logo=drawio&logoColor=4aa73c)
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/Molochkova/checklist)
+- [Checklists](https://github.com/Molochkova/checklists)
 - [Test-Suites and Test-Cases](https://github.com/Molochkova/test-cases)
 - [Bug-Reports](https://github.com/Molochkova/bug-reports)
 - [SQL Queries](https://github.com/Molochkova/SQL)
 - [Postman Collections](https://github.com/Molochkova/postman)
+- [Simple JS autotests (Puppeteer)](https://github.com/Molochkova/puppeteer)
+
+### Test analysis
+
+- [MindMaps](https://github.com/Molochkova/mindmaps)
+- [Block diagrams](https://github.com/Molochkova/blockdiagrams)
+
+### Test design
+
+- [Test design](https://github.com/Molochkova/testdesign)
 
 ### Professional development, courses
 
