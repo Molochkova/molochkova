@@ -32,7 +32,10 @@
 - [Bug-Reports](https://github.com/Molochkova/bug-reports)
 - [SQL Queries](https://github.com/Molochkova/SQL)
 - [Postman Collections](https://github.com/Molochkova/postman)
-- [Simple JS autotests (Puppeteer)](https://github.com/Molochkova/puppeteer)
+
+### Simple JS autotests
+
+- [Puppeteer](https://github.com/Molochkova/puppeteer)
 
 ### Test analysis
 
@@ -41,7 +44,7 @@
 
 ### Test design
 
-- [Test design](https://github.com/Molochkova/testdesign)
+- [Equivalence classes and boundary values](https://github.com/Molochkova/testdesign)
 
 ### Professional development, courses
 
