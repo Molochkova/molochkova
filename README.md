@@ -40,7 +40,6 @@
 ### Test analysis
 
 - [MindMaps](https://github.com/Molochkova/mindmaps)
-- [Block diagrams](https://github.com/Molochkova/blockdiagrams)
 
 ### Test design
 
