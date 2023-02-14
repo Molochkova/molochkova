@@ -4,7 +4,7 @@
 
 ## Recently I have been trained for a new profession. I’ve completed QA Engineer training course at Practicum by Yandex. I plan to develop towards automation. Started learning JS.
 
-## My CV
+## My CV.
 
 [Link to my CV](https://drive.google.com/file/d/18e-oqPnRR0QMIwnzmakVtxf7h4CiUmF9/view?usp=sharing/)
 
