@@ -57,4 +57,4 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/molochkova_n/)
 [![Header](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=whatsapp&logoColor=elefef)](https://wa.me/79005862323/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molochkova&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molochkova&show_icons=true&theme=radical) 
