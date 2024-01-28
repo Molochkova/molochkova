@@ -2,7 +2,7 @@
 
 ## I'm a Junior Manual QA Engineer.
 
-## Recently I have been trained for a new profession. I’ve completed QA Engineer training course at Practicum by Yandex. I plan to develop towards automation. Started learning JS.
+## Recently I have been trained for a new profession. I’ve completed QA Engineer training course at Practicum by Yandex. 
 
 ## My CV.
 
